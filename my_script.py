@@ -1,0 +1,1 @@
+*/15 * * * * wget https://exptrackdata.onrender.com
